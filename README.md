@@ -1,6 +1,14 @@
 bibtex2rfc
 ==========
 
+> This version is a fork from Yaron Sheffer's original code which attempts to add
+> suppport for RFC2629 markdown format. This is a quick and dirty addition that
+> would benefit from documentation about the right markdown syntax to use.
+>
+> References:
+> - https://github.com/cabo/kramdown-rfc2629
+>
+
 Convert bibtex citations into bibxml references for use in Internet Drafts and RFCs
 
 Bibtex is the most common citation format for academic publications. This tool converts bibtex into the
